@@ -1,6 +1,6 @@
 #### 기획 단계
 
-₩₩₩
+'''
 
 https://www.youtube.com/watch?v=0cBFceNkvfY
 
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=0cBFceNkvfY
 
 너가 필요한 컷이나 디자인, 이런걸 다 정해서 필요한 영상컷이 어떻게 되고, 어떤 흐름으로 영상이 진행되는지 다 작성해봐
 
-₩₩₩
+'''
 
 #### 영상 디자인 및 모델 설정
 
